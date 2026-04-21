@@ -1,0 +1,1 @@
+Profit Margin = DIVIDE(SUM(Query1[revenue]) - SUM(Query1[profit]), SUM(Query1[profit]))
