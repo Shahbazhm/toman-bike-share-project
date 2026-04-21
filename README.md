@@ -67,7 +67,7 @@ This project analyzes bike-sharing data to uncover revenue patterns, rider behav
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/toman_bike_share_dashboard.png)
 
 ---
 
