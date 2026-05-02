@@ -29,8 +29,9 @@ GO
 -- Create Database 'bike_data'
 
 CREATE DATABASE bike_data;
+GO
 
 USE bike_data;
-
+GO
 
 
